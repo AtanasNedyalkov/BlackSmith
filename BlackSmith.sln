@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackSmith", "BlackSmith\BlackSmith.csproj", "{D95C87C3-CF35-4B09-ABC3-5A28129624D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Meal Plan", "01. Meal Plan\01. Meal Plan.csproj", "{F7E5999D-E377-470C-942C-BAD9F13E2DC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D95C87C3-CF35-4B09-ABC3-5A28129624D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95C87C3-CF35-4B09-ABC3-5A28129624D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95C87C3-CF35-4B09-ABC3-5A28129624D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95C87C3-CF35-4B09-ABC3-5A28129624D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E5999D-E377-470C-942C-BAD9F13E2DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E5999D-E377-470C-942C-BAD9F13E2DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E5999D-E377-470C-942C-BAD9F13E2DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E5999D-E377-470C-942C-BAD9F13E2DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94C5874D-313A-471D-82CD-BCC994DD1067}
+	EndGlobalSection
+EndGlobal
